@@ -168,3 +168,9 @@ Run the same command twice → identical results.
 - Use `--model random_forest` for best speed/accuracy tradeoff
 - Recall is critical for sepsis — monitor it closely
 - Check `outputs/feature_importances.csv` for top predictors
+
+
+
+https://github.com/user-attachments/assets/cd1a0913-f32a-47e1-ba8b-15b8bfb0ea90
+
+
